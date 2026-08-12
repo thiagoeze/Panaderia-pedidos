@@ -12,9 +12,9 @@ organizada, reemplazando la gestión manual actual (papel, llamadas, WhatsApp).
 
 ## Integrantes
 
-- [Nombre integrante 1]
-- [Nombre integrante 2]
-- [Nombre integrante 3]
+- THIAGO PEÑALOZA
+- FEDERICO PEREIRA
+- JOSE CASTRO
 
 ## Estructura del repositorio
 
